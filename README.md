@@ -7,4 +7,4 @@
 윤태영|Switch / 강북01|2019 ~ 2021|Arduino / Python 프로그래밍|https://github.com/Yoon-men
 허준혁|Switch|2019|외관 설계 및 제작|-
 최성민|Switch / 강북01|2020|-|https://github.com/abgrundnull
-김민서|Switch|2021|외관 설계 및 제작|-
+김민서|Switch|2021|Arduino 설계 / 외관 설계 및 제작|-
