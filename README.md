@@ -7,11 +7,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/HanSatCode"><img src="https://avatars.githubusercontent.com/u/50666621?v=4" width="100px;"/><br/>HanSatCode</a><br/><sub>HW / SW / Admin</sub></td>
-      <td align="center"><a href="https://github.com/Opal1031"><img src="https://avatars.githubusercontent.com/u/94348211?v=4" width="100px;"/><br/>Opal1031</a><br/><sub>HW / SW / Design</sub></td>
-      <td align="center"><a href="https://github.com/Yoon-men"><img src="https://avatars.githubusercontent.com/u/64591335?v=4" width="100px;"/><br/>Yoon-men</a><br/><sub>SW / HW</sub></td>
-      <td align="center"><a href="https://github.com/abgrundnull"><img src="https://avatars.githubusercontent.com/u/67000652?v=4" width="100px;"/><br/>AbgrundNull</a><br/><sub>SW</sub></td>
-      <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/96827853?v=4" width="100px;"/><br/>허준혁</a><br/><sub>HW / Design</sub></td>
+      <td align = "center"><a href = "https://github.com/HanSatCode"><img src = "https://avatars.githubusercontent.com/u/50666621?v=4" width = "100px;"/><br/>HanSatCode</a><br/><sub>HW / SW / Admin</sub></td>
+      <td align = "center"><a href = "https://github.com/Opal1031"><img src = "https://avatars.githubusercontent.com/u/94348211?v=4" width = "100px;"/><br/>Opal1031</a><br/><sub>HW / SW / Design</sub></td>
+      <td align = "center"><a href = "https://github.com/Yoon-men"><img src = "https://avatars.githubusercontent.com/u/64591335?v=4" width = "100px;"/><br/>Yoon-men</a><br/><sub>SW / HW</sub></td>
+      <td align = "center"><a href = "https://github.com/abgrundnull"><img src = "https://avatars.githubusercontent.com/u/67000652?v=4" width = "100px;"/><br/>AbgrundNull</a><br/><sub>SW</sub></td>
+      <td align = "center"><a href = "https://github.com/"><img src = "https://avatars.githubusercontent.com/u/96827853?v=4" width = "100px;"/><br/>허준혁</a><br/><sub>HW / Design</sub></td>
     </tr>
   </tbody>
 </table>
